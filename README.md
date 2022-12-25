@@ -1,1 +1,4 @@
-This is the app's starting code. More and more functionality will be added to the feutre as time goes on. Additional math-related features will be added to the app in the near future. I'll add the github project link so you can contribute or clone the whole project. I think it's a good idea to clone all of the files spatially because as I add more features, the code gets a lot bigger.This is the app's starting code. More and more functionality will be added to the feutre as time goes on. Additional math-related features will be added to the app in the near future. I'll add the github project link so you can contribute or clone the whole project. I think it's a good idea to clone all of the files spatially because as I add more features, the code gets a lot bigger.
+In the future, I plan to expand the   app's feature set considerably.
+
+This painting programme has the potential to be a strong tool for generating magnificent artwork if more tools and brushes are added, if users are given the flexibility to draw in other styles, and if users are able to share their artwork with others.
+An easier painting programme is required to accomplish this objective.
